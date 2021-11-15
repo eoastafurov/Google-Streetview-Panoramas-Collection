@@ -1,0 +1,984 @@
+{
+    "zones": [
+        {
+            "bottom_left": [
+                55.73093772944003,
+                37.61647420324542
+            ],
+            "upper_right": [
+                55.74214975880233,
+                37.63494660276215
+            ],
+            "num": 5,
+            "is_processed": true,
+            "label": "cityscape",
+            "description": "moscow cultural center"
+        },
+        {
+            "bottom_left": [
+                56.29010013086369,
+                37.49818656358797
+            ],
+            "upper_right": [
+                56.29753047104085,
+                37.50496718786676
+            ],
+            "num": 7,
+            "is_processed": true,
+            "label": "village",
+            "description": ""
+        },
+        {
+            "bottom_left": [
+                56.2766170440648,
+                37.48205039452765
+            ],
+            "upper_right": [
+                56.28709900691879,
+                37.49346587590839
+            ],
+            "num": 10,
+            "is_processed": true,
+            "label": "village",
+            "description": ""
+        },
+        {
+            "bottom_left": [
+                56.32415420288442,
+                37.500548911451034
+            ],
+            "upper_right": [
+                56.329960055005486,
+                37.51814420230104
+            ],
+            "num": 10,
+            "is_processed": true,
+            "label": "village",
+            "description": ""
+        },
+        {
+            "bottom_left": [
+                56.37011168640147,
+                37.321580545305565
+            ],
+            "upper_right": [
+                56.37506266702458,
+                37.33156720223253
+            ],
+            "num": 3,
+            "is_processed": true,
+            "label": "village",
+            "description": ""
+        },
+        {
+            "bottom_left": [
+                56.33677785230284,
+                37.88914604979496
+            ],
+            "upper_right": [
+                56.34415154879737,
+                37.901076515298136
+            ],
+            "num": 8,
+            "is_processed": true,
+            "label": "village",
+            "description": ""
+        },
+        {
+            "bottom_left": [
+                56.24197588296683,
+                37.94783380255121
+            ],
+            "upper_right": [
+                56.24612512044807,
+                37.95658853263267
+            ],
+            "num": 8,
+            "is_processed": true,
+            "label": "village",
+            "description": ""
+        },
+        {
+            "bottom_left": [
+                56.71908667792982,
+                37.51248174282479
+            ],
+            "upper_right": [
+                56.743052482594734,
+                37.55556874773554
+            ],
+            "num": 15,
+            "is_processed": true,
+            "label": "village",
+            "description": ""
+        },
+        {
+            "bottom_left": [
+                55.31495116369667,
+                37.149418256466994
+            ],
+            "upper_right": [
+                55.32099435973888,
+                37.161970440345954
+            ],
+            "num": 3,
+            "is_processed": true,
+            "label": "village",
+            "description": ""
+        },
+        {
+            "bottom_left": [
+                54.56661154461993,
+                38.20179093601803
+            ],
+            "upper_right": [
+                54.58909725064751,
+                38.23406327435756
+            ],
+            "num": 10,
+            "is_processed": true,
+            "label": "village",
+            "description": ""
+        },
+        {
+            "bottom_left": [
+                54.40053832909005,
+                38.1907051720953
+            ],
+            "upper_right": [
+                54.41442579123523,
+                38.21078955287043
+            ],
+            "num": 3,
+            "is_processed": true,
+            "label": "village",
+            "description": ""
+        },
+        {
+            "bottom_left": [
+                54.12900210986223,
+                38.15031457183459
+            ],
+            "upper_right": [
+                54.143383566289145,
+                38.17675042345314
+            ],
+            "num": 8,
+            "is_processed": true,
+            "label": "village",
+            "description": ""
+        },
+        {
+            "bottom_left": [
+                54.109293638575586,
+                38.05147276236601
+            ],
+            "upper_right": [
+                54.12297772994374,
+                38.064519026801136
+            ],
+            "num": 3,
+            "is_processed": true,
+            "label": "village",
+            "description": ""
+        },
+        {
+            "bottom_left": [
+                53.90734684529543,
+                37.72154030378037
+            ],
+            "upper_right": [
+                53.91503159799235,
+                37.74334129829697
+            ],
+            "num": 4,
+            "is_processed": true,
+            "label": "village",
+            "description": ""
+        },
+        {
+            "bottom_left": [
+                53.59884074080713,
+                37.58120673998481
+            ],
+            "upper_right": [
+                53.634887293922525,
+                37.60008949114092
+            ],
+            "num": 7,
+            "is_processed": true,
+            "label": "village",
+            "description": ""
+        },
+        {
+            "bottom_left": [
+                53.54758767533341,
+                37.988082180136736
+            ],
+            "upper_right": [
+                53.571855156017634,
+                38.025504359700655
+            ],
+            "num": 3,
+            "is_processed": true,
+            "label": "village",
+            "description": ""
+        },
+        {
+            "bottom_left": [
+                53.38157269739152,
+                38.07078702394055
+            ],
+            "upper_right": [
+                53.4024557664263,
+                38.09584958456593
+            ],
+            "num": 7,
+            "is_processed": true,
+            "label": "village",
+            "description": ""
+        },
+        {
+            "bottom_left": [
+                53.35976867485726,
+                38.059142131083355
+            ],
+            "upper_right": [
+                53.36878292736227,
+                38.07768155949118
+            ],
+            "num": 4,
+            "is_processed": true,
+            "label": "village",
+            "description": ""
+        },
+        {
+            "bottom_left": [
+                53.25197495153396,
+                37.67995524080827
+            ],
+            "upper_right": [
+                53.27251091703986,
+                37.70845102891658
+            ],
+            "num": 8,
+            "is_processed": true,
+            "label": "village",
+            "description": ""
+        },
+        {
+            "bottom_left": [
+                51.85940773090822,
+                36.899664640679745
+            ],
+            "upper_right": [
+                51.89247284691773,
+                36.92713046054318
+            ],
+            "num": 2,
+            "is_processed": true,
+            "label": "village",
+            "description": ""
+        },
+        {
+            "bottom_left": [
+                51.405467930797926,
+                36.74234282924634
+            ],
+            "upper_right": [
+                51.43030449119923,
+                36.758822321164395
+            ],
+            "num": 1,
+            "is_processed": true,
+            "label": "village",
+            "description": ""
+        },
+        {
+            "bottom_left": [
+                51.19595984161575,
+                36.27103723226526
+            ],
+            "upper_right": [
+                51.21832961445927,
+                36.28545678769356
+            ],
+            "num": 3,
+            "is_processed": true,
+            "label": "village",
+            "description": ""
+        },
+        {
+            "bottom_left": [
+                50.92928006195659,
+                36.26708151035058
+            ],
+            "upper_right": [
+                50.967781387416814,
+                36.315833340608165
+            ],
+            "num": 5,
+            "is_processed": true,
+            "label": "village",
+            "description": ""
+        },
+        {
+            "bottom_left": [
+                50.92928006195659,
+                36.26708151035058
+            ],
+            "upper_right": [
+                50.967781387416814,
+                36.315833340608165
+            ],
+            "num": 5,
+            "is_processed": true,
+            "label": "village",
+            "description": ""
+        },
+        {
+            "bottom_left": [
+                50.956969629149405,
+                36.11807943759146
+            ],
+            "upper_right": [
+                50.98896513556561,
+                36.15653158540026
+            ],
+            "num": 5,
+            "is_processed": true,
+            "label": "village",
+            "description": ""
+        },
+        {
+            "bottom_left": [
+                50.956969629149405,
+                36.11807943759146
+            ],
+            "upper_right": [
+                50.98896513556561,
+                36.15653158540026
+            ],
+            "num": 5,
+            "is_processed": true,
+            "label": "village",
+            "description": ""
+        },
+        {
+            "bottom_left": [
+                50.85694992049419,
+                36.19773031535257
+            ],
+            "upper_right": [
+                50.86951830424943,
+                36.23274923567845
+            ],
+            "num": 5,
+            "is_processed": true,
+            "label": "village",
+            "description": ""
+        },
+        {
+            "bottom_left": [
+                50.75888709152894,
+                36.15790487678636
+            ],
+            "upper_right": [
+                50.7745215032752,
+                36.19635702459517
+            ],
+            "num": 5,
+            "is_processed": true,
+            "label": "village",
+            "description": ""
+        },
+        {
+            "bottom_left": [
+                50.95567204698287,
+                36.11876608348097
+            ],
+            "upper_right": [
+                50.99069399237942,
+                36.15996481327612
+            ],
+            "num": 5,
+            "is_processed": true,
+            "label": "village",
+            "description": ""
+        },
+        {
+            "bottom_left": [
+                50.95567204698287,
+                36.11876608348097
+            ],
+            "upper_right": [
+                50.99069399237942,
+                36.15996481327612
+            ],
+            "num": 5,
+            "is_processed": true,
+            "label": "village",
+            "description": ""
+        },
+        {
+            "bottom_left": [
+                50.930864547578075,
+                36.61241358764518
+            ],
+            "upper_right": [
+                50.958553171346956,
+                36.63781947101886
+            ],
+            "num": 5,
+            "is_processed": true,
+            "label": "village",
+            "description": ""
+        },
+        {
+            "bottom_left": [
+                50.99486946876801,
+                35.931947890682835
+            ],
+            "upper_right": [
+                51.032884652340194,
+                35.976579847960906
+            ],
+            "num": 5,
+            "is_processed": true,
+            "label": "village",
+            "description": ""
+        },
+        {
+            "bottom_left": [
+                51.130802717126834,
+                36.04112452559424
+            ],
+            "upper_right": [
+                51.163539556461195,
+                36.0720235729406
+            ],
+            "num": 5,
+            "is_processed": true,
+            "label": "village",
+            "description": ""
+        },
+        {
+            "bottom_left": [
+                51.05383662476499,
+                37.21492816300414
+            ],
+            "upper_right": [
+                51.086628006912726,
+                37.24720050134367
+            ],
+            "num": 5,
+            "is_processed": true,
+            "label": "village",
+            "description": ""
+        },
+        {
+            "bottom_left": [
+                51.05383662476499,
+                37.21492816300414
+            ],
+            "upper_right": [
+                51.086628006912726,
+                37.24720050134367
+            ],
+            "num": 5,
+            "is_processed": true,
+            "label": "village",
+            "description": ""
+        },
+        {
+            "bottom_left": [
+                51.05383662476499,
+                37.21492816300414
+            ],
+            "upper_right": [
+                51.086628006912726,
+                37.24720050134367
+            ],
+            "num": 5,
+            "is_processed": true,
+            "label": "village",
+            "description": ""
+        },
+        {
+            "bottom_left": [
+                51.1017214883562,
+                37.3138051145125
+            ],
+            "upper_right": [
+                51.13878740585633,
+                37.34813738934179
+            ],
+            "num": 5,
+            "is_processed": true,
+            "label": "village",
+            "description": ""
+        },
+        {
+            "bottom_left": [
+                51.1017214883562,
+                37.3138051145125
+            ],
+            "upper_right": [
+                51.13878740585633,
+                37.34813738934179
+            ],
+            "num": 5,
+            "is_processed": true,
+            "label": "village",
+            "description": ""
+        },
+        {
+            "bottom_left": [
+                51.05340500434009,
+                37.54726458335166
+            ],
+            "upper_right": [
+                51.07411824709401,
+                37.579536921691194
+            ],
+            "num": 5,
+            "is_processed": true,
+            "label": "village",
+            "description": ""
+        },
+        {
+            "bottom_left": [
+                51.05340500434009,
+                37.54726458335166
+            ],
+            "upper_right": [
+                51.07411824709401,
+                37.579536921691194
+            ],
+            "num": 5,
+            "is_processed": true,
+            "label": "village",
+            "description": ""
+        },
+        {
+            "bottom_left": [
+                50.84186039358254,
+                37.34058429312301
+            ],
+            "upper_right": [
+                50.86873530405189,
+                37.3845296049045
+            ],
+            "num": 5,
+            "is_processed": true,
+            "label": "village",
+            "description": ""
+        },
+        {
+            "bottom_left": [
+                50.84186039358254,
+                37.34058429312301
+            ],
+            "upper_right": [
+                50.86873530405189,
+                37.3845296049045
+            ],
+            "num": 5,
+            "is_processed": true,
+            "label": "village",
+            "description": ""
+        },
+        {
+            "bottom_left": [
+                50.76505162396468,
+                37.550697815572256
+            ],
+            "upper_right": [
+                50.78415712243423,
+                37.61180926476838
+            ],
+            "num": 5,
+            "is_processed": true,
+            "label": "village",
+            "description": ""
+        },
+        {
+            "bottom_left": [
+                50.59072964414254,
+                35.986693796108334
+            ],
+            "upper_right": [
+                50.62689715938887,
+                36.04437201782154
+            ],
+            "num": 5,
+            "is_processed": true,
+            "label": "village",
+            "description": ""
+        },
+        {
+            "bottom_left": [
+                50.59072964414254,
+                35.986693796108334
+            ],
+            "upper_right": [
+                50.62689715938887,
+                36.04437201782154
+            ],
+            "num": 5,
+            "is_processed": true,
+            "label": "village",
+            "description": ""
+        },
+        {
+            "bottom_left": [
+                50.59072964414254,
+                35.986693796108334
+            ],
+            "upper_right": [
+                50.62689715938887,
+                36.04437201782154
+            ],
+            "num": 5,
+            "is_processed": true,
+            "label": "village",
+            "description": ""
+        },
+        {
+            "bottom_left": [
+                50.43747275321977,
+                36.16110175224112
+            ],
+            "upper_right": [
+                50.46195735679409,
+                36.187880926607974
+            ],
+            "num": 5,
+            "is_processed": true,
+            "label": "village",
+            "description": ""
+        },
+        {
+            "bottom_left": [
+                50.429161971539926,
+                36.33542355791114
+            ],
+            "upper_right": [
+                50.458548163070475,
+                36.37979297428188
+            ],
+            "num": 5,
+            "is_processed": true,
+            "label": "village",
+            "description": ""
+        },
+        {
+            "bottom_left": [
+                50.429161971539926,
+                36.33542355791114
+            ],
+            "upper_right": [
+                50.458548163070475,
+                36.37979297428188
+            ],
+            "num": 5,
+            "is_processed": true,
+            "label": "village",
+            "description": ""
+        },
+        {
+            "bottom_left": [
+                50.429161971539926,
+                36.33542355791114
+            ],
+            "upper_right": [
+                50.458548163070475,
+                36.37979297428188
+            ],
+            "num": 5,
+            "is_processed": true,
+            "label": "village",
+            "description": ""
+        },
+        {
+            "bottom_left": [
+                50.487351513197005,
+                36.358495654423926
+            ],
+            "upper_right": [
+                50.504568661225846,
+                36.401090294139834
+            ],
+            "num": 5,
+            "is_processed": true,
+            "label": "village",
+            "description": ""
+        },
+        {
+            "bottom_left": [
+                50.487351513197005,
+                36.358495654423926
+            ],
+            "upper_right": [
+                50.504568661225846,
+                36.401090294139834
+            ],
+            "num": 5,
+            "is_processed": true,
+            "label": "village",
+            "description": ""
+        },
+        {
+            "bottom_left": [
+                50.364674535291094,
+                36.65754552201041
+            ],
+            "upper_right": [
+                50.3808046190098,
+                36.679286536032066
+            ],
+            "num": 5,
+            "is_processed": true,
+            "label": "village",
+            "description": ""
+        },
+        {
+            "bottom_left": [
+                50.485001962188875,
+                36.55310271603984
+            ],
+            "upper_right": [
+                50.525616095590046,
+                36.603227837290596
+            ],
+            "num": 5,
+            "is_processed": true,
+            "label": "village",
+            "description": ""
+        },
+        {
+            "bottom_left": [
+                50.485001962188875,
+                36.55310271603984
+            ],
+            "upper_right": [
+                50.525616095590046,
+                36.603227837290596
+            ],
+            "num": 5,
+            "is_processed": true,
+            "label": "village",
+            "description": ""
+        },
+        {
+            "bottom_left": [
+                50.485001962188875,
+                36.55310271603984
+            ],
+            "upper_right": [
+                50.525616095590046,
+                36.603227837290596
+            ],
+            "num": 5,
+            "is_processed": true,
+            "label": "village",
+            "description": ""
+        },
+        {
+            "bottom_left": [
+                52.724741263513586,
+                32.18681574967718
+            ],
+            "upper_right": [
+                52.787906682343724,
+                32.271273145757235
+            ],
+            "num": 5,
+            "is_processed": true,
+            "label": "village",
+            "description": ""
+        },
+        {
+            "bottom_left": [
+                52.724741263513586,
+                32.18681574967718
+            ],
+            "upper_right": [
+                52.787906682343724,
+                32.271273145757235
+            ],
+            "num": 5,
+            "is_processed": true,
+            "label": "village",
+            "description": ""
+        },
+        {
+            "bottom_left": [
+                52.724741263513586,
+                32.18681574967718
+            ],
+            "upper_right": [
+                52.787906682343724,
+                32.271273145757235
+            ],
+            "num": 5,
+            "is_processed": true,
+            "label": "village",
+            "description": ""
+        },
+        {
+            "bottom_left": [
+                52.724741263513586,
+                32.18681574967718
+            ],
+            "upper_right": [
+                52.787906682343724,
+                32.271273145757235
+            ],
+            "num": 5,
+            "is_processed": true,
+            "label": "village",
+            "description": ""
+        },
+        {
+            "bottom_left": [
+                52.724741263513586,
+                32.18681574967718
+            ],
+            "upper_right": [
+                52.787906682343724,
+                32.271273145757235
+            ],
+            "num": 5,
+            "is_processed": true,
+            "label": "village",
+            "description": ""
+        },
+        {
+            "bottom_left": [
+                52.724741263513586,
+                32.18681574967718
+            ],
+            "upper_right": [
+                52.787906682343724,
+                32.271273145757235
+            ],
+            "num": 5,
+            "is_processed": true,
+            "label": "village",
+            "description": ""
+        },
+        {
+            "bottom_left": [
+                52.82401936474002,
+                32.648928168879415
+            ],
+            "upper_right": [
+                52.86673469303832,
+                32.73407221045605
+            ],
+            "num": 5,
+            "is_processed": true,
+            "label": "village",
+            "description": ""
+        },
+        {
+            "bottom_left": [
+                52.82401936474002,
+                32.648928168879415
+            ],
+            "upper_right": [
+                52.86673469303832,
+                32.73407221045605
+            ],
+            "num": 5,
+            "is_processed": true,
+            "label": "village",
+            "description": ""
+        },
+        {
+            "bottom_left": [
+                52.82401936474002,
+                32.648928168879415
+            ],
+            "upper_right": [
+                52.86673469303832,
+                32.73407221045605
+            ],
+            "num": 5,
+            "is_processed": true,
+            "label": "village",
+            "description": ""
+        },
+        {
+            "bottom_left": [
+                54.088625162631516,
+                35.322692331691144
+            ],
+            "upper_right": [
+                54.10432906367042,
+                35.36801093446581
+            ],
+            "num": 5,
+            "is_processed": true,
+            "label": "village",
+            "description": ""
+        },
+        {
+            "bottom_left": [
+                54.088625162631516,
+                35.322692331691144
+            ],
+            "upper_right": [
+                54.10432906367042,
+                35.36801093446581
+            ],
+            "num": 5,
+            "is_processed": true,
+            "label": "village",
+            "description": ""
+        },
+        {
+            "bottom_left": [
+                54.02252316117543,
+                35.74223273297909
+            ],
+            "upper_right": [
+                54.05034718620162,
+                35.80334418217523
+            ],
+            "num": 5,
+            "is_processed": true,
+            "label": "village",
+            "description": ""
+        },
+        {
+            "bottom_left": [
+                54.02252316117543,
+                35.74223273297909
+            ],
+            "upper_right": [
+                54.05034718620162,
+                35.80334418217523
+            ],
+            "num": 5,
+            "is_processed": true,
+            "label": "village",
+            "description": ""
+        },
+        {
+            "bottom_left": [
+                54.14872341072221,
+                36.95176559044754
+            ],
+            "upper_right": [
+                54.16892065771672,
+                36.96182191350511
+            ],
+            "num": 5,
+            "is_processed": true,
+            "label": "village",
+            "description": ""
+        }
+    ]
+}
